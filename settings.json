@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EconomySmp1.aternos.me
-",
+    "ip": "EconomySmp1.aternos.me",
     "port": 43531,
     "version": "1.20.1",
     "try-creative": false
